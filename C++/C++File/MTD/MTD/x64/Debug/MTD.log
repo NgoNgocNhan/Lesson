@@ -1,0 +1,4 @@
+﻿  MTD.cpp
+D:\C++\C++File\MTD\MTD.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++\C++File\MTD\MTD.cpp(87,9): warning C4101: 't': unreferenced local variable
+  MTD.vcxproj -> D:\C++\C++File\MTD\x64\Debug\MTD.exe
